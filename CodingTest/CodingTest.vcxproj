@@ -139,10 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="감시.cpp" />
     <ClCompile Include="내려가기.cpp" />
+    <ClCompile Include="다리 놓기.cpp" />
     <ClCompile Include="동전.cpp" />
     <ClCompile Include="동전2.cpp" />
     <ClCompile Include="상자넣기.cpp" />
+    <ClCompile Include="정수 삼각형.cpp" />
+    <ClCompile Include="테트로미노.cpp" />
     <ClCompile Include="평범한 배낭.cpp" />
     <ClCompile Include="포도주 시식.cpp" />
   </ItemGroup>
