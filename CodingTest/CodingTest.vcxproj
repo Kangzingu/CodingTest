@@ -144,9 +144,12 @@
     <ClCompile Include="감시.cpp" />
     <ClCompile Include="내려가기.cpp" />
     <ClCompile Include="다리 놓기.cpp" />
+    <ClCompile Include="돌 게임.cpp" />
     <ClCompile Include="동전.cpp" />
     <ClCompile Include="동전2.cpp" />
     <ClCompile Include="상자넣기.cpp" />
+    <ClCompile Include="아기 상어.cpp" />
+    <ClCompile Include="연구소.cpp" />
     <ClCompile Include="연습.cpp" />
     <ClCompile Include="이차원 배열과 연산.cpp" />
     <ClCompile Include="이항 계수 2.cpp" />
