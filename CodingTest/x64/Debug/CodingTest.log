@@ -1,2 +1,8 @@
-﻿  아기 상어.cpp
+﻿  앱.cpp
+D:\GitHubRepository\CodingTest\CodingTest\앱.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHubRepository\CodingTest\CodingTest\앱.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHubRepository\CodingTest\CodingTest\앱.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHubRepository\CodingTest\CodingTest\앱.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHubRepository\CodingTest\CodingTest\앱.cpp(25,33): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHubRepository\CodingTest\CodingTest\앱.cpp(29,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
   CodingTest.vcxproj -> D:\GitHubRepository\CodingTest\x64\Debug\CodingTest.exe
