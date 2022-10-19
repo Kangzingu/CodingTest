@@ -41,15 +41,8 @@
 //
 //int main()
 //{
-//	char ch = '5';
-//
-//	// char to int
-//	int value = ch - '0';
-//	// int to char
-//	ch = value + '0';
-//
-//	cout << value << endl;
-//	cout << ch << endl;
+//	int arr[3] = { 1, 2, 3 };
+//	cout << arr[3] << endl;
 //
 //	return 0;
 //}
