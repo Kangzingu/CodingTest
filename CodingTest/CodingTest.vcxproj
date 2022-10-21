@@ -150,6 +150,7 @@
     <ClCompile Include="돌 게임.cpp" />
     <ClCompile Include="동전.cpp" />
     <ClCompile Include="동전2.cpp" />
+    <ClCompile Include="로봇 조종하기.cpp" />
     <ClCompile Include="무한 수열.cpp" />
     <ClCompile Include="상자넣기.cpp" />
     <ClCompile Include="수열.cpp" />
