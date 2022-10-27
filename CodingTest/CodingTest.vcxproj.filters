@@ -117,5 +117,8 @@
     <ClCompile Include="피보나치 수의 확장.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="Generations of Tribbles.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
