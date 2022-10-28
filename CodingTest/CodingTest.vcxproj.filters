@@ -120,5 +120,8 @@
     <ClCompile Include="Generations of Tribbles.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="가장 긴 증가하는 부분 수열4.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
