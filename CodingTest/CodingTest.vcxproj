@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1로 만들기 2.cpp" />
     <ClCompile Include="BABBA.cpp" />
     <ClCompile Include="Generations of Tribbles.cpp" />
     <ClCompile Include="Maximum Subarray.cpp" />
