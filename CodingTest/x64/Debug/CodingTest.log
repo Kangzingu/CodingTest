@@ -1,3 +1,2 @@
-﻿  1로 만들기 2.cpp
-D:\GitHubRepository\CodingTest\CodingTest\1로 만들기 2.cpp(92,2): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  피보나치는 지겨웡~.cpp
   CodingTest.vcxproj -> D:\GitHubRepository\CodingTest\x64\Debug\CodingTest.exe
