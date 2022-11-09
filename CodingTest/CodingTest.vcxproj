@@ -163,6 +163,7 @@
     <ClCompile Include="신나는 함수 실행.cpp" />
     <ClCompile Include="아기 상어.cpp" />
     <ClCompile Include="안녕.cpp" />
+    <ClCompile Include="알고리즘 수업 - 피보나치 수 1.cpp" />
     <ClCompile Include="앱.cpp" />
     <ClCompile Include="연구소.cpp" />
     <ClCompile Include="연속부분최대곱.cpp" />
