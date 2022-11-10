@@ -150,5 +150,8 @@
     <ClCompile Include="알고리즘 수업 - 피보나치 수 1.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="뱀.cpp">
+      <Filter>소스 파일\삼성 SW 역량 테스트 기출 문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
