@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\삼성 SW 역량 테스트 기출 문제">
       <UniqueIdentifier>{02c65bce-3da7-496f-9e35-1767882325da}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\단기간 성장">
+      <UniqueIdentifier>{ce79324d-0743-4b23-afd0-9c4801cb27e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="상자넣기.cpp">
@@ -152,6 +155,12 @@
     </ClCompile>
     <ClCompile Include="뱀.cpp">
       <Filter>소스 파일\삼성 SW 역량 테스트 기출 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="가운데를 말해요.cpp">
+      <Filter>소스 파일\단기간 성장</Filter>
+    </ClCompile>
+    <ClCompile Include="CCW.cpp">
+      <Filter>소스 파일\단기간 성장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
