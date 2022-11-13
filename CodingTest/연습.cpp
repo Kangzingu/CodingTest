@@ -128,3 +128,64 @@
 //
 //	return 0;
 //}
+
+#include <iostream>
+using namespace std;
+
+struct A
+{
+	int val;
+	A()
+	{
+		cout << "A Init" << endl;
+	}
+	virtual void Print()
+	{
+		cout << "A" << endl;
+	}
+};
+
+struct B :A
+{
+	B()
+	{
+		cout << "B Init" << endl;
+	}
+	void Print()
+	{
+		cout << "B" << endl;
+	}
+};
+
+struct C :B
+{
+	C()
+	{
+		cout << "C Init" << endl;
+	}
+	void Print()
+	{
+		cout << "C" << endl;
+	}
+};
+
+struct AA :A
+{
+	AA()
+	{
+		cout << "AA Init" << endl;
+	}
+	void Print()
+	{
+		A::A::A::A::A::A::A::A();
+		cout << "AA" << endl;
+	}
+};
+
+int main()
+{
+	cout << "Hello, World!" << endl;
+	A* a = new C;
+	a->Print();
+	return 0;
+}
