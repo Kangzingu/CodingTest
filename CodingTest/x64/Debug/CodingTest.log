@@ -1,3 +1,2 @@
-﻿  회전 초밥.cpp
-D:\GitHubRepository\CodingTest\CodingTest\회전 초밥.cpp(29,26): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  연습.cpp
   CodingTest.vcxproj -> D:\GitHubRepository\CodingTest\x64\Debug\CodingTest.exe

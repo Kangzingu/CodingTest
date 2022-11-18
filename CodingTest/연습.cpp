@@ -314,3 +314,52 @@
 //	((C*)a)->Print();
 //	return 0;
 //}
+
+#include <iostream>
+#include <ctime>
+using namespace std;
+
+void Compare(unsigned long long& a, unsigned long long& b)
+{
+	if (a == b)
+	{
+		a = 1;
+		b = 1;
+	}
+}
+
+int main()
+{
+	long start, finish;
+	double duration;
+
+	unsigned long long a = 0;
+	unsigned long long b = 0;
+	int iter = 100000000;
+
+	start = clock();
+	for (int i = 0; i < iter; i++)
+	{
+		if (a == b)
+		{
+			a = 1;
+			b = 1;
+		}
+	}
+	finish = clock();
+
+	duration = (double)(finish - start) / CLOCKS_PER_SEC;
+	cout << "그냥 실행했을 때: " << duration << "초" << endl;
+
+	start = clock();
+	for (int i = 0; i < iter; i++)
+	{
+		Compare(a, b);
+	}
+	finish = clock();
+
+	duration = (double)(finish - start) / CLOCKS_PER_SEC;
+	cout << "함수로 실행했을 때: " << duration << "초" << endl;
+
+	return 0;
+}
