@@ -177,5 +177,8 @@
     <ClCompile Include="임스와 함께하는 미니게임.cpp">
       <Filter>소스 파일\맹주완이 보내준거</Filter>
     </ClCompile>
+    <ClCompile Include="회전 초밥.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
