@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\맹주완이 보내준거">
       <UniqueIdentifier>{593482c1-ef1f-41cc-b765-6ac6ba39768a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SWEA">
+      <UniqueIdentifier>{92546fcb-351e-457c-ba8f-c8851ee63144}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="상자넣기.cpp">
@@ -182,6 +185,9 @@
     </ClCompile>
     <ClCompile Include="알파벳.cpp">
       <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
+    <ClCompile Include="1206.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

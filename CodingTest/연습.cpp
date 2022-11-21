@@ -316,6 +316,7 @@
 //}
 
 #include <iostream>
+#include <vector>
 #include <ctime>
 using namespace std;
 
@@ -328,6 +329,14 @@ void Compare(unsigned long long& a, unsigned long long& b)
 	}
 }
 
+void Change1(vector<int> nums)
+{
+}
+
+void Change2(vector<int>& nums)
+{
+}
+
 int main()
 {
 	long start, finish;
@@ -335,31 +344,34 @@ int main()
 
 	unsigned long long a = 0;
 	unsigned long long b = 0;
-	int iter = 100000000;
+	int iter = 100;
 
+	vector<int> nums;
+	for (int i = 0; i < 1000000000; i++)
+	{
+		nums.push_back(1);
+	}
+
+	cout << "size 1000000000짜리 int형 vector를 100번 반복해서 함수에" << endl;
 	start = clock();
 	for (int i = 0; i < iter; i++)
 	{
-		if (a == b)
-		{
-			a = 1;
-			b = 1;
-		}
+		Change1(nums);
 	}
 	finish = clock();
 
 	duration = (double)(finish - start) / CLOCKS_PER_SEC;
-	cout << "그냥 실행했을 때: " << duration << "초" << endl;
+	cout << "값으로 넘겼을 때: " << duration << "초" << endl;
 
 	start = clock();
 	for (int i = 0; i < iter; i++)
 	{
-		Compare(a, b);
+		Change2(nums);
 	}
 	finish = clock();
 
 	duration = (double)(finish - start) / CLOCKS_PER_SEC;
-	cout << "함수로 실행했을 때: " << duration << "초" << endl;
+	cout << "주소로 넘겼을 때: " << duration << "초" << endl;
 
 	return 0;
 }

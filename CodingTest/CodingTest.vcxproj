@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1206.cpp" />
     <ClCompile Include="1로 만들기 2.cpp" />
     <ClCompile Include="BABBA.cpp" />
     <ClCompile Include="CCW.cpp" />
