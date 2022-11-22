@@ -186,11 +186,13 @@
     <ClCompile Include="타일 장식물.cpp" />
     <ClCompile Include="탑.cpp" />
     <ClCompile Include="테트로미노.cpp" />
+    <ClCompile Include="파티.cpp" />
     <ClCompile Include="평범한 배낭.cpp" />
     <ClCompile Include="포도주 시식.cpp" />
     <ClCompile Include="피보나치 비스무리한 수열.cpp" />
     <ClCompile Include="피보나치 수의 확장.cpp" />
     <ClCompile Include="피보나치는 지겨웡~.cpp" />
+    <ClCompile Include="하늘에서 별똥별이 빗발친다.cpp" />
     <ClCompile Include="회전 초밥.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

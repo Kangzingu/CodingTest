@@ -189,5 +189,11 @@
     <ClCompile Include="1206.cpp">
       <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
+    <ClCompile Include="하늘에서 별똥별이 빗발친다.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
+    <ClCompile Include="파티.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
