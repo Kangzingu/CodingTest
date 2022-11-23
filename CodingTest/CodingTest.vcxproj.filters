@@ -195,5 +195,14 @@
     <ClCompile Include="파티.cpp">
       <Filter>소스 파일\맹주완이 보내준거</Filter>
     </ClCompile>
+    <ClCompile Include="용액.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
+    <ClCompile Include="동전 분배.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
+    <ClCompile Include="올림픽.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
