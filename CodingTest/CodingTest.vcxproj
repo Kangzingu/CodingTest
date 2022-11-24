@@ -185,6 +185,7 @@
     <ClCompile Include="점화식.cpp" />
     <ClCompile Include="정수 삼각형.cpp" />
     <ClCompile Include="좋다.cpp" />
+    <ClCompile Include="집합.cpp" />
     <ClCompile Include="컨베이어 벨트 위의 로봇.cpp" />
     <ClCompile Include="타일 장식물.cpp" />
     <ClCompile Include="탑.cpp" />
