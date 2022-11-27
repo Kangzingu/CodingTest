@@ -213,5 +213,8 @@
     <ClCompile Include="오아시스 재결합%28푸는 중%29.cpp">
       <Filter>소스 파일\맹주완이 보내준거</Filter>
     </ClCompile>
+    <ClCompile Include="가희와 키워드.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
