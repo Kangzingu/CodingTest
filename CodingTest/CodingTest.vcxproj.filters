@@ -216,5 +216,11 @@
     <ClCompile Include="가희와 키워드.cpp">
       <Filter>소스 파일\맹주완이 보내준거</Filter>
     </ClCompile>
+    <ClCompile Include="블로그.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
+    <ClCompile Include="인구 이동.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -164,6 +164,7 @@
     <ClCompile Include="로봇 조종하기.cpp" />
     <ClCompile Include="무한 수열.cpp" />
     <ClCompile Include="뱀.cpp" />
+    <ClCompile Include="블로그.cpp" />
     <ClCompile Include="상자넣기.cpp" />
     <ClCompile Include="수강 과목.cpp" />
     <ClCompile Include="수열.cpp" />
@@ -183,6 +184,7 @@
     <ClCompile Include="원판 돌리기.cpp" />
     <ClCompile Include="이차원 배열과 연산.cpp" />
     <ClCompile Include="이항 계수 2.cpp" />
+    <ClCompile Include="인구 이동.cpp" />
     <ClCompile Include="임스와 함께하는 미니게임.cpp" />
     <ClCompile Include="점프 점프.cpp" />
     <ClCompile Include="점화식.cpp" />
