@@ -197,6 +197,7 @@
     <ClCompile Include="컨베이어 벨트 위의 로봇.cpp" />
     <ClCompile Include="타일 장식물.cpp" />
     <ClCompile Include="탑.cpp" />
+    <ClCompile Include="택배 배송.cpp" />
     <ClCompile Include="테트로미노.cpp" />
     <ClCompile Include="파티.cpp" />
     <ClCompile Include="평범한 배낭.cpp" />
