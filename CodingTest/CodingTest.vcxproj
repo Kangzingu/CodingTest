@@ -181,6 +181,7 @@
     <ClCompile Include="연구소.cpp" />
     <ClCompile Include="연속부분최대곱.cpp" />
     <ClCompile Include="연습.cpp" />
+    <ClCompile Include="영단어 암기는 괴로워.cpp" />
     <ClCompile Include="오아시스 재결합%28푸는 중%29.cpp" />
     <ClCompile Include="올림픽.cpp" />
     <ClCompile Include="용액.cpp" />
