@@ -249,5 +249,8 @@
     <ClCompile Include="최소 힙.cpp">
       <Filter>소스 파일\맹주완이 보내준거</Filter>
     </ClCompile>
+    <ClCompile Include="비밀번호 발음하기.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
