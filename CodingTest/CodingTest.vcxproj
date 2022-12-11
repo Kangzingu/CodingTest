@@ -170,6 +170,7 @@
     <ClCompile Include="블로그.cpp" />
     <ClCompile Include="비밀번호 발음하기.cpp" />
     <ClCompile Include="빗물.cpp" />
+    <ClCompile Include="삼각형과 세 변.cpp" />
     <ClCompile Include="상자넣기.cpp" />
     <ClCompile Include="수강 과목.cpp" />
     <ClCompile Include="수열.cpp" />
