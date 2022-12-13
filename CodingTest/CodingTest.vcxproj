@@ -113,7 +113,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
@@ -175,6 +175,7 @@
     <ClCompile Include="상자넣기.cpp" />
     <ClCompile Include="수강 과목.cpp" />
     <ClCompile Include="수열.cpp" />
+    <ClCompile Include="숨바꼭질.cpp" />
     <ClCompile Include="쉬운 최단거리.cpp" />
     <ClCompile Include="스타트와 링크.cpp" />
     <ClCompile Include="신나는 함수 실행.cpp" />
