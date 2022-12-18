@@ -146,6 +146,7 @@
     <ClCompile Include="Generations of Tribbles.cpp" />
     <ClCompile Include="IF문 좀 대신 써줘.cpp" />
     <ClCompile Include="Maximum Subarray.cpp" />
+    <ClCompile Include="ZOAC 4.cpp" />
     <ClCompile Include="가운데를 말해요.cpp" />
     <ClCompile Include="가장 긴 감소하는 부분 수열.cpp" />
     <ClCompile Include="가장 긴 증가하는 부분 수열4.cpp" />

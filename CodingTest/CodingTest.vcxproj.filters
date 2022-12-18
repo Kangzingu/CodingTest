@@ -270,5 +270,8 @@
     <ClCompile Include="덩치.cpp">
       <Filter>소스 파일\맹주완이 보내준거</Filter>
     </ClCompile>
+    <ClCompile Include="ZOAC 4.cpp">
+      <Filter>소스 파일\맹주완이 보내준거</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
